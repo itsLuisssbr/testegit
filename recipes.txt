@@ -5,3 +5,6 @@ Bolachas
 Farinha
 Ovo
 Banana
+Sacos
+Batatas
+
